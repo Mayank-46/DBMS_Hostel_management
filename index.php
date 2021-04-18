@@ -61,10 +61,10 @@
 		
 		var images=[
 		"photo1.png",
-		"D:/Books/HTMl_5 course/sample_project/photo2.jpeg",
-		"D:/Books/HTMl_5 course/sample_project/photo3.jpeg",
-		"D:/Books/HTMl_5 course/sample_project/photo4.png",
-		"D:/Books/HTMl_5 course/sample_project/photo5.jpeg"];
+		"photo2.jpeg",
+		"photo3.jpeg",
+		"photo4.png",
+		"photo5.jpeg"];
 		var i=0;
 		function slides(){
 			document.getElementById("slideimage").src=images[i];
