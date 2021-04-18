@@ -84,7 +84,7 @@
 
 
 		<hr>
-		<img src="D:\Books\HTMl_5 course\sample_project\photo1.png"  alt="" id="slideimage">
+		<img src="photo1.png"  alt="" id="slideimage">
 		<button class="btn"><a href="http://localhost/main.php">Continue</a></button>
 	</div>
 </body>
