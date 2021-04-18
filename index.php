@@ -85,7 +85,7 @@
 
 		<hr>
 		<img src="photo1.png"  alt="" id="slideimage">
-		<button class="btn"><a href="http://localhost/main.php">Continue</a></button>
+		<button class="btn"><a href="main.php">Continue</a></button>
 	</div>
 </body>
 </html>
