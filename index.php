@@ -60,7 +60,7 @@
 	<script>
 		
 		var images=[
-		"D:/Books/HTMl_5 course/sample_project/photo1.png",
+		"photo1.png",
 		"D:/Books/HTMl_5 course/sample_project/photo2.jpeg",
 		"D:/Books/HTMl_5 course/sample_project/photo3.jpeg",
 		"D:/Books/HTMl_5 course/sample_project/photo4.png",
